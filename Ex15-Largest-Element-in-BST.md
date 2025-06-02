@@ -12,8 +12,8 @@ To Write a c program to find the largest value in a Binary Search Tree.
 ## Program:
 ```
 Program to find and display the priority of the operator in the given Postfix expression
-Developed by: 
-RegisterNumber:  
+Developed by: Easwari M
+RegisterNumber: 212223240033
 
 struct node
 {
